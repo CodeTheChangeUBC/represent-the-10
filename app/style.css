@@ -4,6 +4,7 @@
 
 			1. GENERAL STUFF
 			- NAVBAR
+			- LANGUAGE
 
 			2. PETITION PAGE
 			- PROGRESS BAR
@@ -41,6 +42,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 3.7em;
+}
+
+/* =============== LANGUAGE ==============*/
+
+.eng, .fr, .asl, .lsq {
+	display: none;
 }
 
 /* =============== NAVBAR ================*/
