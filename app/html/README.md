@@ -17,6 +17,6 @@ Stylesheet imports go at the top of the file before the closing head tag.
     page code goes here
     ...
     
-    <script src="js/scripts.js"></script>
+    <script src="js/session.js"></script>
 </body>
 ```
